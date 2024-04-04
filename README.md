@@ -1,6 +1,9 @@
 # Illustrator-CC-2021-Linux
 A script that install Illustrator 2021 on Linux
 
+## Links are down, that's intended until I find a more legitimate solution for everyone.
+
+
 ## Important
 
 **DISCLAIMER :**
