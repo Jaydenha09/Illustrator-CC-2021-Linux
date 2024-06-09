@@ -26,7 +26,7 @@ fi
 mkdir $instdir/Adobe-Illustrator-2021/
 
 
-wget https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/wine-illustrator-custom.tar.xz -O /tmp/wine-illustrator-custom.tar.xz
+wget https://web.archive.org/web/20231024185932if_/https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/wine-illustrator-custom.tar.xz -O /tmp/wine-illustrator-custom.tar.xz
 tar -xf /tmp/wine-illustrator-custom.tar.xz -C /tmp/
 rm -rf /tmp/wine-illustrator-custom.tar.xz
 
@@ -37,11 +37,11 @@ WINEPREFIX=$instdir/Adobe-Illustrator-2021 $instdir/Adobe-Illustrator-2021/wine-
 
 echo "Downloading Illustrator..."
 
-wget https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/AdobeIllustrator2021.tar.xz -O /tmp/AdobeIllustrator2021.tar.xz
+wget https://web.archive.org/web/20231024185550if_/https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/AdobeIllustrator2021.tar.xz -O /tmp/AdobeIllustrator2021.tar.xz
 tar -xf /tmp/AdobeIllustrator2021.tar.xz -C /tmp/
 rm -rf /tmp/AdobeIllustrator2021.tar.xz 
 
-wget https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/vcredist.tar.xz -O /tmp/vcredist.tar.xz
+wget https://web.archive.org/web/20231024185628if_/https://lulucloud.mywire.org/FileHosting/GithubProjects/Illustrator/vcredist.tar.xz -O /tmp/vcredist.tar.xz
 tar -xf /tmp/vcredist.tar.xz -C /tmp/
 rm -rf /tmp/vcredist.tar.xz
 
